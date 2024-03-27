@@ -1,0 +1,10 @@
+.flex-container {
+    display: flex;
+}
+.avator {
+    width: 20%;
+    min-width: 225px;
+}
+.details {
+    width: 80%;
+}
